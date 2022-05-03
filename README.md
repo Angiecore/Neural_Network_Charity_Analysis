@@ -28,6 +28,8 @@ ASK_AMT—Funding amount requested
 IS_SUCCESSFUL—Was the money used effectively
 
 
+
+
 -Deliverable 1: Preprocessing Data for a Neural Network Model
 
 -Deliverable 2: Compile, Train, and Evaluate the Model
